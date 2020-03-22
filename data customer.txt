@@ -1,0 +1,8 @@
+C01, Hendra Sanjaya, Jakarta
+C02, Didik Pribadi, Bandung
+C03, Fevri Hadinata, Bekasi
+C04, Inge Rosalina, jakarta
+C05, Ruli Wijaya, Semarang
+C06, Emila, Surabaya
+C07, Diana, Bandung
+0074,irfan,pwt
